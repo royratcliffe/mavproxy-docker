@@ -3,7 +3,7 @@
 Run MAVProxy using:
 
 ```bash
-docker run -it --rm royratcliffe/mavproxy --help
+docker run -it --rm royratcliffe/mavproxy-py --help
 ```
 ```
 Usage: mavproxy.py [options]
