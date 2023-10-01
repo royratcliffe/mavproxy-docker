@@ -15,4 +15,4 @@ RUN apt update \
     && pip3 install PyYAML mavproxy --user
 
 ENV PATH="$PATH:/root/.local/bin"
-CMD [ "mavproxy.py" ]
+ENTRYPOINT [ "mavproxy.py" ]
