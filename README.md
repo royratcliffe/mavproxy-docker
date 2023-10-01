@@ -1,4 +1,4 @@
-# MAVProxy on Docker
+# MAVProxy Python on Docker
 
 Run MAVProxy using:
 
